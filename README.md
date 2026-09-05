@@ -2,9 +2,9 @@
 
 # ROOM 1801
 
-### Multiplayer Psychological Horror
+### Local-Multiplayer Psychological Horror
 
-**24 Week University Project · Unreal Engine 5**
+**24 Week University Project · Unreal Engine 5.4.4**
 
 <p align="center">
   <img
@@ -24,7 +24,7 @@
 
 ## About
 
-*Room 1801* is a multiplayer psychological horror game developed over **24 weeks** in collaboration with the **University of South Wales**.
+*Room 1801* is a local-multiplayer psychological horror game developed over **24 weeks** in collaboration with the **University of South Wales**. 
 
 ---
 
@@ -32,15 +32,14 @@
 
 |                 |                    |
 | --------------- | ------------------ |
-| **Engine**      | Unreal Engine 5    |
+| **Engine**      | Unreal Engine 5.4.4|
 | **Development** | 24 Weeks           |
 | **Team**        | 10 People          |
-| **Role**        | Technical Lead     |
 | **Genre**       | Multiplayer Horror |
 
 ### Team
 
-**4 Programmers** · **3 Artists** · **2 Designers** · **2 Musicians**
+**3 Programmers** · **3 Artists** · **2 Designers** · **2 Musicians**
 
 ---
 
@@ -48,13 +47,13 @@
 
 ### Programming
 
+* **Dylan Rees Parry** — Lead Developer
 * **Kamil Adam Bozomanski** — Technical Lead
-* **Thomas Vale** — Programmer
 * **Reuben Fusco** — Programmer
 
 ### Design
 
-* **Dylan Rees Parry** — Lead Developer
+* **Thomas Vale** — Designer
 * **Brandon Chadwick** — Level Designer
 
 ### Art
@@ -62,11 +61,6 @@
 * **Monterese Monet** — Lead Artist
 * **Bry** — Artist
 * **Syane** — Artist
-
-### Music
-
-* **Chessaru**
-* **Cael**
 
 ---
 
