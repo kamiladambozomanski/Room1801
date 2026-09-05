@@ -34,12 +34,12 @@
 | --------------- | ------------------ |
 | **Engine**      | Unreal Engine 5.4.4|
 | **Development** | 24 Weeks           |
-| **Team**        | 10 People          |
+| **Team**        | 8 People           |
 | **Genre**       | Multiplayer Horror |
 
 ### Team
 
-**3 Programmers** · **3 Artists** · **2 Designers** · **2 Musicians**
+**3 Programmers** · **3 Artists** · **2 Designers**
 
 ---
 
