@@ -78,8 +78,10 @@
 
 ## License
 
-### All Rights Reserved
+### No Licence Granted
 
-This repository is publicly available for **portfolio and educational viewing**.
+This repository is publicly available for portfolio, educational and viewing purposes.
 
-The source code and project assets remain the intellectual property of their respective copyright holders. No permission is granted to copy, modify, redistribute, sublicense, commercially use, or incorporate any part of this project into other projects without explicit permission from the relevant copyright holders.
+Copyright in the source code and project assets remains with their respective owners. Unless expressly permitted by the relevant copyright holder or applicable law, no permission is granted to reproduce, modify, redistribute, sublicense, commercially exploit or incorporate copyrighted material from this repository into other projects.
+
+This repository does not grant rights to third-party materials or content belonging to other contributors.
